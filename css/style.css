@@ -301,6 +301,9 @@ button:focus {
     .home_banner_area .banner_inner .container {
       vertical-align: middle;
       align-self: center; }
+      .upper_text{
+        line-height: normal;
+      }
     .home_banner_area .banner_inner .banner_content {
       color: #fff;
       vertical-align: middle;
